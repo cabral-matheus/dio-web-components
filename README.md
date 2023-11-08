@@ -1,0 +1,1 @@
+Pequeno projeto feito durante o curso **Trabalhando com Web Components no Front-end** do **Santander Bootcamp 2023 - Fullstack Java+Angular** na plataforma de ensino da *https://www.dio.me/* para entender como se utiliza os ***components***
